@@ -23,6 +23,9 @@ https://user-images.githubusercontent.com/56188746/149073176-0163be16-8afa-44f3-
 
 
 
+
+Simple Snake Game using Pygame using UP,DOWN,LEFT AND RIGHT Keyboard keys
+
 Differences between the types of AI Agents
 
 ¬Simple Reflex AI Snake Game using Pygame:-Snake only moves randomly without knowing about its environment
