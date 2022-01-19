@@ -3,8 +3,8 @@
 
 <font color="#f03c15"> 1)Snake game using UP,DOWN,LEFT AND RIGHT Keyboard keys  </font>
 ```diff
- 1)Snake game using UP,DOWN,LEFT AND RIGHT Keyboard keys 
- Simple Snake Game using Turtle
++ 1)Snake game using UP,DOWN,LEFT AND RIGHT Keyboard keys 
+- Simple Snake Game using Turtle
 ```
 
 Simple Snake Game using Turtle
