@@ -34,7 +34,7 @@ Simple Snake Game using Pygame:- use UP,DOWN,LEFT AND RIGHT Keyboard keys
 
 
 
-¬Model Based ai snake game using pygame:-Snake only moves randomly + it knows its environment thus avoid to collide with itself and the game walls
+¬Model Based ai snake game using pygame:-Snake moves randomly + it knows its environment thus avoid to collide with itself and the game walls
 
 
 ¬Goal Based ai snake game using pygame:-Snake moves towards its goal(fruit) + it knows its environment thus avoid to collide with itself and the game walls but it does not knows the best path ,so it ends up bitting itself
