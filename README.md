@@ -1,7 +1,11 @@
 # Snake-Game-in-Python
 
 
-<font color="#f03c15"> 1)Snake game using UP,DOWN,LEFT AND RIGHT Keyboard keys +this text is highlighted in green </font>
+<font color="#f03c15"> 1)Snake game using UP,DOWN,LEFT AND RIGHT Keyboard keys  </font>
+```diff
++ this text is highlighted in green
+- this text is highlighted in red
+```
 
 Simple Snake Game using Turtle
 
