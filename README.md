@@ -2,7 +2,7 @@
 
 
 <font color="#f03c15"> 1)Snake game using UP,DOWN,LEFT AND RIGHT Keyboard keys </font>
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) '1)Snake game using UP,DOWN,LEFT AND RIGHT Keyboard key'
 
 Simple Snake Game using Turtle
 
