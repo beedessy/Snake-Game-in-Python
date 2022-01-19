@@ -1,4 +1,4 @@
-# Snake-Game-in-Python-using-Turtle
+# Snake-Game-in-Python
 
 1)Snake game using Keyboard keys
 
