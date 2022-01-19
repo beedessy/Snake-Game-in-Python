@@ -1,7 +1,7 @@
 # Snake-Game-in-Python
 
 
-<font color="green"> 1)Snake game using UP,DOWN,LEFT AND RIGHT Keyboard keys </font>
+<font color="#f03c15"> 1)Snake game using UP,DOWN,LEFT AND RIGHT Keyboard keys </font>
 - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
 
 Simple Snake Game using Turtle
