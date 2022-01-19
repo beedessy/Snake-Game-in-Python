@@ -1,6 +1,7 @@
 # Snake-Game-in-Python
 
-1)Snake game using UP,DOWN,LEFT AND RIGHT Keyboard keys
+
+<span style="color: green"> 1)Snake game using UP,DOWN,LEFT AND RIGHT Keyboard keys </span>
 
 
 Simple Snake Game using Turtle
