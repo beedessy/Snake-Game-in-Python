@@ -24,7 +24,7 @@ https://user-images.githubusercontent.com/56188746/150094653-acdbc912-f767-42f5-
 
 
 
-
+Snake Game using PyGame
 
 Simple Snake Game using Pygame using UP,DOWN,LEFT AND RIGHT Keyboard keys
 
