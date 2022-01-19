@@ -16,7 +16,8 @@ https://user-images.githubusercontent.com/56188746/147847070-1a2117d2-a645-40fb-
 - Automatic snake in Python using Turtle
 
 
-https://user-images.githubusercontent.com/56188746/149073176-0163be16-8afa-44f3-813a-89911a92dd71.mp4
+
+https://user-images.githubusercontent.com/56188746/150094369-3ec83967-e29a-4aa0-94d4-945b6b019e70.mp4
 
 
 
