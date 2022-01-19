@@ -14,7 +14,7 @@ https://user-images.githubusercontent.com/56188746/147847070-1a2117d2-a645-40fb-
 ```diff
 + 2)Automatic Snake Game 
 - Automatic snake in Python using Turtle
-
+```
 
 
 https://user-images.githubusercontent.com/56188746/150094369-3ec83967-e29a-4aa0-94d4-945b6b019e70.mp4
