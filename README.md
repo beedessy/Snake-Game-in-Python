@@ -44,3 +44,9 @@ Differences between the types of AI Agents
 ¬Utility Based ai snake game using A Star algorithm:-Snake moves to its fruit+ it knows its environment thus avoid to collide with itself and the game walls +it knows the best path and it avoids being killed
 
 
+
+
+https://user-images.githubusercontent.com/56188746/150099180-523851eb-0a5e-4c78-9d29-2de2d6f4d0cd.mp4
+
+
+
